@@ -5,4 +5,4 @@ docker run -d -i -t  --rm  --name springboot \
 --network dhanuka \
 --env SPRING_PROFILES_ACTIVE=test \
 -p 9001:9001 \
-ms-be:1.0.0
+ms-be-write:1.0.0
